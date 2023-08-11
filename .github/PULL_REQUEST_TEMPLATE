@@ -1,0 +1,27 @@
+- [ ] This PR is ready for review!
+  - [ ] There are no new testing gaps (coverage has *not* gone down).
+  - [ ] This change has had sufficient user-acceptance-testing.
+  - [ ] All new work is documented (inc the README).
+  - [ ] This code will deploy safely with all build and test steps automated and documented (static compilations, migrations, config changes, version bumps, etc).
+  - [ ] There are no debug statements or settings, or critical TODOs left in.
+  - [ ] This change introduces no security gaps.
+  - [ ] This change introduces no privacy or other compliance gaps.
+  - [ ] This change will cause no unplanned performance regressions.
+  - [ ] This change introduces no unplanned technical debt or unfinished/unrelated work.
+  - [ ] This change satisfies the change management policy and where needed has been signed off by the relevant project stakeholders.
+  - [ ] No secrets or other sensitive data (passwords, access keys, PII, etc) are present in **any** of the constituent commits (not just in the final PR).
+
+**What does this Pull Request do and why??**
+Please explain what your request accomplishes and how. (This should be the bulk of the PR.)
+
+**What are the relevant Github Issues or support tickets?**
+List any issue numbers or ticket URLs here.
+
+**Where should the reviewer start?**
+List any relevant lines of code or documents that the reviewer should inspect first to help them get started, esp on larger PR.
+
+**How can the reviewer see this in action and/or test?**
+Link to demo environment or instructions for bringing up a local copy as required.
+
+**Compliance**
+Are there security, data protection and privacy considerations that need special attention? (If no, that means you are confident we meet our commitments.)
